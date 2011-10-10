@@ -19,7 +19,7 @@
 </head>
 
 
-<body style="font-family: sans-serif; margin:0; padding:0; background:url(Images/backg.jpg) center; background-repeat: repeat-y;">
+<body style="font-family: sans-serif; margin:0; padding:0; background:url(/images/backg.jpg) center; background-repeat: repeat-y;">
 <div style="width: 800px; margin-left:auto; margin-right: auto;">
 	<div>
 		<img src="/images/DTNetworkHeader.png" alt="" />
