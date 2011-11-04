@@ -1,104 +1,104 @@
-body { 
-font-family: sans-serif; 
-margin:0; padding:0; 
-background:url(/images/backg.jpg) center; 
+body {
+font-family: sans-serif;
+margin:0; padding:0;
+background:url(/images/backg.jpg) center;
 background-repeat: repeat-y;
 }
 
 h3 {
-	text-align:center;
-	font-style:italic;
+    text-align:center;
+    font-style:italic;
 }
 
 #dtheader {
-	width: 800px; 
-	margin-left:auto; 
-	margin-right: auto;
+    width: 800px;
+    margin-left:auto;
+    margin-right: auto;
 }
 
 #dtheader <p> {
-	font-size:16px; 
-	font-style:italic; 
-	width:700px; 
-	color:#00F; 
-	text-align:center;
+    font-size:16px;
+    font-style:italic;
+    width:700px;
+    color:#00F;
+    text-align:center;
 }
 
 .divheight {
-	height:100%;
-	
-	margin-top:15px;
+    height:100%;
+
+    margin-top:15px;
 }
 
 #dtlink {
-	float:left; 
-	padding-left:75px;	
+    float:left;
+    padding-left:75px;
 }
 
 img {
-	border:none;
+    border:none;
 }
 
 div p {
-	margin-left:315px;
+    margin-left:315px;
 }
 
 span {
-	font-weight:bold;
+    font-weight:bold;
 }
 
 #ludology {
-	padding-top:25px;
-	float:left;
-	width:300px;
-	clear:left;
-	
+    padding-top:25px;
+    float:left;
+    width:300px;
+    clear:left;
+
 }
 
 #htp {
-	padding-top:65px;
-	float:left;
-	width:300px;
+    padding-top:65px;
+    float:left;
+    width:300px;
 }
 
 #lmds {
-	float:left;
-	padding-top:55px;
-	width:300px;
+    float:left;
+    padding-top:55px;
+    width:300px;
 }
 
 #obg {
-	float:left;
-	padding-top:10px;
-	width:300px;
+    float:left;
+    padding-top:10px;
+    width:300px;
 }
 
 #drak {
-	float:left;
-	padding-top:10px;
-	width:300px;
+    float:left;
+    padding-top:10px;
+    width:300px;
 }
 
 #phg {
-	float:left;
-	width:150px;
-	margin-left:75px;
+    float:left;
+    width:150px;
+    margin-left:75px;
 }
 
 #njapg {
-	float:left;
-	margin-left:75px;
-	width:150px;
-	clear:left;
+    float:left;
+    margin-left:75px;
+    width:150px;
+    clear:left;
 }
 
 #susd {
-	padding-top:35px;
-	float:left;
-	width:300px;
-	clear:left;
+    padding-top:35px;
+    float:left;
+    width:300px;
+    clear:left;
 }
 
 .p5paddingtop {
-	padding-top:5px;
+    padding-top:5px;
 }
