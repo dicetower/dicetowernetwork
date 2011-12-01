@@ -3,6 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>The Dice Tower Network</title>
+<link type="text/plain" rel="author" href="/humans.txt" />
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
