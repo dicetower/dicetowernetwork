@@ -159,7 +159,7 @@
             <a href="http://www.gameopolis.org" target="_blank">
                 <img id="gameopolis" src="/images/gameopolisBanner.png" alt="Gameopolis Logo" title="Click To Go To The Gameopolis Home Page"/></a>
             <p class="p5paddingtop">
-            	Gameopolis, the gaming podcast with Mark and Jeff, is an informal podcast that is done in a conversational format.  Mark and Jeff talk about all kinds of games, including boardgames, strategy games, card games, roleplaying games, miniatures, and very occasionally, computer games.  The co-hosts don't do formal reviews or delve into the gaming industry; they are just two regular guys who enjoy getting together to talk about what they love: games!!!  Gameopolis is suitable for a general audience (receives a "Clean" rating in iTunes).
+            	Gameopolis, the gaming podcast with Mark and Jeff, is an informal podcast that is done in a conversational format.  Mark and Jeff talk about all kinds of games, including boardgames, strategy games, card games, roleplaying games, miniatures, and very occasionally, computer games.  The co-hosts don't do formal reviews or delve into the gaming industry; they are just two regular guys who enjoy getting together to talk about what they love: games!!!  Gameopolis is suitable for a general audience (receives a "Clean" rating in iTunes).	
             </p>
             <p>
                 <a href="http://gameopolis.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
