@@ -61,7 +61,7 @@
         </div>
         <div class="divheight">
 
-            <a href="http://ryansturm.libsyn.com/" target="_blank">
+            <a href="http://howtoplaypodcast.com" target="_blank">
                 <img  id="htp" src="/images/howtoplay.png" alt="How To Play Podcast Logo" title="Click To Go To The How To Play Podcast Home Page"/></a>
             <p class="p5paddingtop">
                 "The How to Play Podcast" is an audio podcast about teaching andlearning modern board games.  "How to Play" has over
@@ -71,7 +71,7 @@
                 up to helping you learn some of the most complex games in our hobby.  "How to Play" also features special episodes
                 including opinion-based episodes, advanced strategy episodes and much more.</p>
             <p>
-                <a href="http://ryansturm.libsyn.com/rss" target="_blank"> <span>RSS Feed</span> </a>
+                <a href="http://howtoplaypodcast.com/rss" target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
         <div class="divheight">
@@ -159,7 +159,7 @@
             <a href="http://www.gameopolis.org" target="_blank">
                 <img id="gameopolis" src="/images/gameopolisBanner.png" alt="Gameopolis Logo" title="Click To Go To The Gameopolis Home Page"/></a>
             <p class="p5paddingtop">
-            	Gameopolis, the gaming podcast with Mark and Jeff, is an informal podcast that is done in a conversational format.  Mark and Jeff talk about all kinds of games, including boardgames, strategy games, card games, roleplaying games, miniatures, and very occasionally, computer games.  The co-hosts don't do formal reviews or delve into the gaming industry; they are just two regular guys who enjoy getting together to talk about what they love: games!!!  Gameopolis is suitable for a general audience (receives a "Clean" rating in iTunes).	
+            	Gameopolis, the gaming podcast with Mark and Jeff, is an informal podcast that is done in a conversational format.  Mark and Jeff talk about all kinds of games, including boardgames, strategy games, card games, roleplaying games, miniatures, and very occasionally, computer games.  The co-hosts don't do formal reviews or delve into the gaming industry; they are just two regular guys who enjoy getting together to talk about what they love: games!!!  Gameopolis is suitable for a general audience (receives a "Clean" rating in iTunes).
             </p>
             <p>
                 <a href="http://gameopolis.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
