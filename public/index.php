@@ -105,18 +105,6 @@
 
         <div class="divheight">
 
-            <a href="http://www.drakkenstrikevideos.com/" target="_blank">
-                <img id="drak" src="/images/drakkenstrike.png" alt="Drakkenstrike Logo" title="Click To Go To The Drakkenstrike Home Page"/></a>
-            <p>
-                Drakkenstrike Videos has been providing high-quality board game presentations since we launched our
-                initial Components Breakdown Video Review Series in HD in August of 2010.  With each new video we strive to continue
-                our passion for the industry by providing gamers, designers and publishers from all over the world with a visual
-                entertainment service unlike any other in our field. </p>
-
-        </div>
-
-        <div class="divheight">
-
             <a href="http://www.plaidhatgames.com/" target="_blank">
                 <img id="phg" src="/images/PHGames.png" alt="Plaid Hat Games Logo" title="Click To Go To The Plaid Hat Games Home Page"/></a>
             <p class="p5paddingtop">
