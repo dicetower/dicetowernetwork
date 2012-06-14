@@ -26,8 +26,8 @@ h3 {
 
 .divheight {
     height:100%;
-
     margin-top:15px;
+    clear: both;
 }
 
 #dtlink {
@@ -110,7 +110,7 @@ span {
 }
 
 #castelli{
-	
+
 	float:left;
     width:300px;
 }
