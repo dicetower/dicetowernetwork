@@ -105,18 +105,6 @@
 
         <div class="divheight">
 
-            <a href="http://www.drakkenstrikevideos.com/" target="_blank">
-                <img id="drak" src="/images/drakkenstrike.png" alt="Drakkenstrike Logo" title="Click To Go To The Drakkenstrike Home Page"/></a>
-            <p>
-                Drakkenstrike Videos has been providing high-quality board game presentations since we launched our
-                initial Components Breakdown Video Review Series in HD in August of 2010.  With each new video we strive to continue
-                our passion for the industry by providing gamers, designers and publishers from all over the world with a visual
-                entertainment service unlike any other in our field. </p>
-
-        </div>
-
-        <div class="divheight">
-
             <a href="http://www.plaidhatgames.com/" target="_blank">
                 <img id="phg" src="/images/PHGames.png" alt="Plaid Hat Games Logo" title="Click To Go To The Plaid Hat Games Home Page"/></a>
             <p class="p5paddingtop">
@@ -174,6 +162,23 @@
             </p>
            
         </div>
+		
+		<div class="divheight">
+
+            <a href="http://www.thesecretcabal.com/" target="_blank">
+                <img id="secretcabal" src="/images/TheSecretCabalGamingPodcast.png" alt="The Secret Cabal Gaming Podcast Logo" title="Click To Go To The Secret Cabal Gaming Podcast Home Page"/></a>
+            <p class="p5paddingtop">
+                Four old friends with a love of gaming come together to produce a bi-weekly show about gaming 
+				of all kinds: board, card, miniatures, role-playing games and much more.  In each episode you 
+				can expect board game walk-through and reviews, gaming industry news and commentary and roundtable 
+				discussions.  The hosts, Jamie, Tony, Brian and Chris, each have very different tastes in gaming so 
+				you can expect a wide variety of opinions and viewpoints. Come check out The Secret Cabal Gaming Podcast 
+				for their irreverent views on all things gaming.</p>
+            <p>
+                <a href="http://www.thesecretcabal.com/scpodcast.xml"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
     </div>
 </div>
 </body>
