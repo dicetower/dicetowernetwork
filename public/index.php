@@ -120,7 +120,7 @@
 
         <div class="divheight">
 
-            <a href="http://njagp.libsyn.com/" target="_blank">
+            <a href="http://www.njagp.com/" target="_blank">
                 <img id="njapg" src="/images/NJAGP.png" alt="Not Just Another Gaming Podcast Logo" title="Click To Go To The NJAGP Home Page"/>                    </a>
             <p class="p5paddingtop">
                 NJAGP is hosted by Jim Reed, Jeff Scott, and Matthew McHale. The focus on gaming spans the realm,
