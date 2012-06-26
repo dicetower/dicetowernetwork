@@ -114,9 +114,17 @@ span {
 	float:left;
     width:300px;
 }
+
 #secretcabal{
 	float:left;
 	padding-left:75px;
 	width:150px;
+	padding-top:20px;
+}
+#flipthetable {
+	float:left;
+    margin-left:75px;
+    width:150px;
+    clear:left;
 	padding-top:20px;
 }
