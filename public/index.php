@@ -179,6 +179,22 @@
             </p>
         </div>
 		
+		<div class="divheight">
+
+            <a href="http://tableflipsyou.blogspot.com/" target="_blank">
+                <img id="flipthetable" src="/images/flipthetable.png" alt="Flip The Table Logo" title="Click To Go To The Flip The Table Home Page"/></a>
+            <p class="p5paddingtop">
+                Most board game shows focus on the latest and greatest, or time-tested classics...the crew from Flip the Table 
+				have taken it upon themselves to review all the rest. They've combed charity shops and salvage stores for cheesy, 
+				weird, and obscure board games; licensed cash-grabs, VHS games, bizarre kids' games, and everything else in between. 
+				Why would they do this? Because they can...and because examining The Other Side of Board Games is a great way to learn 
+				more about what makes board games tick. Join Flip the Table as they suffer for your entertainment. And remember...in Soviet Russia, 
+				Table Flips You!</p>
+            <p>
+                <a href="http://feeds.feedburner.com/FlipTheTableBoardGames?format=xml"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
     </div>
 </div>
 </body>
