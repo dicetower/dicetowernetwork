@@ -153,15 +153,6 @@
                 <a href="http://gameopolis.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
-        <div class="divheight">
-
-            <a href="http://www.castellireviews.com/" target="_blank">
-                <img id="castelli" src="/images/CastelliLogo.png" alt="Castelli Reviews Logo" title="Click To Go To The Castelli Home Page"/></a>
-            <p class="p5paddingtop">
-            	Castellireviews.com is home to a Youtube review series and blog created by James Castelli. The site's goal is to help the gaming community learn more about board games of various genres. Each episode is dedicated to a single game taken from Castelli's Collection, he covers gameplay, components and his opinions on both. Please come along and say hello.	
-            </p>
-           
-        </div>
 		
 		<div class="divheight">
 
