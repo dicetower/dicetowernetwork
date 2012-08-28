@@ -186,6 +186,21 @@
             </p>
         </div>
 		
+		<div class="divheight">
+
+            <a href="http://www.thecardboardjungle.com" target="_blank">
+                <img id="cardboardjungle" src="/images/cardboardjunglelogo.png" alt="Cardboard Jungle Logo" title="Click To Go To The Cardboard Jungle Home Page"/></a>
+            <p id="cardboardjunglep" class="p5paddingtop">
+                The Cardboard Jungle is a podcast all about tabletop gaming hosted by
+				a couple of gaming friends, Anthony Racano and Paul Leoncavallo. We
+				hope to give our own spin on board and card games along with some
+				input from our bullpen of contributors. Our goal is to promote the
+				hobby and those individuals who make it up, including designers,
+				publishers, retailers, conventions and other podcasters and bloggers.
+				We love gaming because of all of you and we want give you your proper
+				credit.</p>
+        </div>
+		
     </div>
 </div>
 </body>
