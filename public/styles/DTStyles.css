@@ -128,3 +128,12 @@ span {
     clear:left;
 	padding-top:20px;
 }
+#cardboardjungle{
+	float:left;
+    margin-left:100px;
+    width:100px;
+    clear:left;
+}
+#cardboardjunglep{
+	padding-top:10px;
+}
