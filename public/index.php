@@ -201,6 +201,16 @@
 				credit.</p>
         </div>
 		
+		<div class="divheight">
+
+            <a href="http://www.thed6generation.com/" target="_blank">
+                <img id="d6" src="/images/D6GLogo_OnWhite_Medium.png" alt="D6 Generation Logo" title="Click To Go To The D6 Generation Home Page"/></a>
+            <p id="d6p" class="p5paddingtop">
+                Topical, controversial, and (hopefully) entertaining conversation about miniature war 
+				games, board games, RPG's and other topics near and dear to gamer's hearts. 
+			</p>
+        </div>
+		
     </div>
 </div>
 </body>
