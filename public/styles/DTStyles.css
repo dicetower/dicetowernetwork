@@ -135,5 +135,14 @@ span {
     clear:left;
 }
 #cardboardjunglep{
-	padding-top:10px;
+	padding-top:7px;
+}
+#d6 {
+	float:left;
+    margin-left:70px;
+    width:160px;
+    clear:left;
+}
+#d6p {
+	padding-top:35px;
 }
