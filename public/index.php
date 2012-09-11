@@ -202,13 +202,25 @@
         </div>
 		
 		<div class="divheight">
-
             <a href="http://www.thed6generation.com/" target="_blank">
                 <img id="d6" src="/images/D6GLogo_OnWhite_Medium.png" alt="D6 Generation Logo" title="Click To Go To The D6 Generation Home Page"/></a>
             <p id="d6p" class="p5paddingtop">
                 Topical, controversial, and (hopefully) entertaining conversation about miniature war 
 				games, board games, RPG's and other topics near and dear to gamer's hearts. 
 			</p>
+        </div>
+		
+		<div class="divheight">
+            <a href="http://www.thegamersatlas.com" target="_blank">
+                <img id="gameratlas" src="/images/gameratlas.png" alt="The Gamer's Atlas Logo" title="Click To Go To The Gamer's Atlas Home Page"/></a>
+            <p class="p5paddingtop" id="gameratlasp">
+                What was once a college class assignment has become an extraordinary weekly production!  
+				The Gamer's Atlas offers high quality board and card game reviews by The Cartographer and his friend, 
+				Danny Dice. Every episode includes a cinematic opening sketch based on the game of the week to keep things fresh, 
+				and have you coming back for more!</p>
+            <p>
+                <a href="http://thegamersatlas.wordpress.com/feed"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
         </div>
 		
     </div>
