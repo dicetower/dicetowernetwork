@@ -146,3 +146,13 @@ span {
 #d6p {
 	padding-top:35px;
 }
+#gameratlas {
+	float:left;
+    margin-left:70px;
+    width:160px;
+    clear:left;
+	padding-top:15px;
+}
+#gameratlasp {
+	padding-top:55px;
+}
