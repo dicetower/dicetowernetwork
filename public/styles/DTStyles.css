@@ -26,7 +26,7 @@ h3 {
 
 .divheight {
     height:100%;
-    margin-top:15px;
+    margin-top:20px;
     clear: both;
 }
 
@@ -155,4 +155,14 @@ span {
 }
 #gameratlasp {
 	padding-top:55px;
+}
+#longview {
+	float:left;
+    margin-left:70px;
+    width:160px;
+    clear:left;
+	padding-top:15px;
+}
+#longviewp {
+	
 }

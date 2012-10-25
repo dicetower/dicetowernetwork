@@ -223,6 +223,19 @@
             </p>
         </div>
 		
+		<div class="divheight">
+            <img id="longview" src="/images/LongViewLogo2.jpg" alt="The Long View Logo" title="The Long View Podcast"/>
+            <p class="p5paddingtop" id="longviewp">
+                The Long View is a podcast designed to take a closer, more critical look at the games we play. Each episode will focus on a 
+				single game. The game will be one that the podcasters will have played many, many times. The purpose is to provide a forum for those 
+				who want to know what a game reveals after multiple plays. Discussion will focus on the game play itself. It will not be a description 
+				of the rules of the game. Rather, it will be an in depth exploration of the merits or flaws of the game that become apparent when it it 
+				played multiple times. Thanks for listening!</p>
+            <p>
+                <a href="http://www.2d6.org/feed/the-long-view/"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
     </div>
 </div>
 </body>
