@@ -224,7 +224,8 @@
         </div>
 		
 		<div class="divheight">
-            <img id="longview" src="/images/LongViewLogo2.jpg" alt="The Long View Logo" title="The Long View Podcast"/>
+			<a href="http://www.2d6.org/category/podcast/" target="_blank">
+				<img id="longview" src="/images/LongViewLogo2.jpg" alt="The Long View Logo" title="The Long View Podcast"/></a>
             <p class="p5paddingtop" id="longviewp">
                 The Long View is a podcast designed to take a closer, more critical look at the games we play. Each episode will focus on a 
 				single game. The game will be one that the podcasters will have played many, many times. The purpose is to provide a forum for those 
@@ -233,6 +234,18 @@
 				played multiple times. Thanks for listening!</p>
             <p>
                 <a href="http://www.2d6.org/feed/the-long-view/"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://hexencounter.blogspot.com/" target="_blank">
+				<img id="hex" src="/images/DTN_promo.png" alt="The Hex Encounter Logo" title="The Hex Encounter Wargaming Podcast"/></a>
+            <p class="p5paddingtop" id="hexp">
+                The Hex Encounter Podcast focuses on wargames and historical simulations. Our show features reviews, previews, interviews, rants, and in-depth 
+				discussions to cover every corner of the wargaming world.  From casual wargames to the hardcore rulesets that make even make the most 
+				grizzled of grognards break out in a cold sweat, the Hex Encounter Podcast has got it covered!</p>
+            <p>
+                <a href="http://hexencounter.blogspot.com/feeds/posts/default?alt=rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
 		
