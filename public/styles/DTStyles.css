@@ -166,3 +166,10 @@ span {
 #longviewp {
 	
 }
+#hex{
+	float:left;
+    margin-left:60px;
+    width:160px;
+    clear:left;
+	padding-top:15px;
+}
