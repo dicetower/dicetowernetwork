@@ -249,6 +249,20 @@
             </p>
         </div>
 		
+		<div class="divheight">
+			<a href="http://www.spielama.de/" target="_blank">
+				<img id="spiel" src="/images/SpieLamadeLOGO.png" alt="The Spielama.de Logo" title="The Spielama.De Web Site"/></a>
+            <p class="p5paddingtop" id="spielp">
+                SpieLama.de is Germany's premier video-review website for all manner of board, card and iDevice games. For over three years now we have dedicated 
+				ourselves to giving in-depth reviews of all things "game".  Lead by Benjamin Schönheiter and Bastian Völkel, SpieLama also tries to broaden 
+				the knowledge of games by doing specials on boardgames, their mechanics, discuss prototypes we played, have walk-through tutorials of the most 
+				complicated games and with our LamasLive segment we talk about our hobby, upcoming games, trade shows like SPIEL or Nuremberg and so much more. 
+				Thank you for watching!</p>
+            <p>
+                <a href="http://www.spielama.de/?feed=rss2"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
     </div>
 </div>
 </body>
