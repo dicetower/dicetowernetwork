@@ -263,6 +263,18 @@
             </p>
         </div>
 		
+		<div class="divheight">
+			<a href="http://www.thegeekallstars.com/" target="_blank">
+				<img id="geekallstars" src="/images/thegeekallstars_300x300.jpg" alt="The Geek All-Stars Logo" title="The Geek All-Stars Web Site"/></a>
+            <p class="p5paddingtop" id="geekallstarsp">
+                The Geek All-Stars is a podcast about board games, card games, video games, MMO's, movies, TV, and anything else that comes to our minds.  Each episode contains a varied group 
+				of "All-Stars" from the geek world.  Join Dan/GeekJock to discuss the topics of the day.  We are joined, on a regular basis, by industry insiders such as Dice Hate Me Games' 
+				Chris K, video game developer/journalist Josh Augustine, prominent bloggers such as Tom Gurganus, and (of course) guys with more games then we care to count (as in Adam O.)  
+				I cannot promise we will always stay on topic, but I can promise we will have a good time!</p>
+            <p>
+                <a href="http://thegeekallstars.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
     </div>
 </div>
 </body>
