@@ -287,6 +287,7 @@
 				Family friendly, informative and always striving to be entertaining.</p>
             <p>
                 <a href="http://feeds.feedburner.com/RollingDiceTakingNames"  target="_blank"> <span>RSS Feed</span> </a>
+				<a href="https://itunes.apple.com/us/podcast/rolling-dice-taking-names/id594264422?mt=2"  target="_blank"> <span class="secondspan"	>iTunes	</span> </a>
             </p>
         </div>
     </div>
