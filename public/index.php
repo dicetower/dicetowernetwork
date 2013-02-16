@@ -275,6 +275,20 @@
                 <a href="http://thegeekallstars.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		
+		<div class="divheight">
+			<a href="http://rolldicetakenames.blogspot.com/" target="_blank">
+				<img id="rollingdice" src="/images/rollingDice.png" alt="The Rolling Dice Logo" title="The Rolling Dice Taking Names Podcast"/></a>
+            <p class="p5paddingtop">
+                Rolling Dice & Taking Names is a podcast where two seasoned tabletop gamers have discussions about board games, RPGs, and miniatures 
+				that are entertaining and informative to casual gamers and experienced hobbyists alike. The level of conversation would be similar to 
+				friends sitting around the kitchen table playing the latest game, discussing their likes and dislikes of a style of game, or just trying 
+				to make sense of the latest gaming news. In addition, special guests add their gaming knowledge to help the hosts sound more credible. 
+				Family friendly, informative and always striving to be entertaining.</p>
+            <p>
+                <a href="http://feeds.feedburner.com/RollingDiceTakingNames"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
     </div>
 </div>
 </body>
