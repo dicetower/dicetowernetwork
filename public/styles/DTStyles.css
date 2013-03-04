@@ -194,3 +194,8 @@ span {
     clear:left;
 	padding-top:25px;
 }
+#adbanner{
+	margin-left:42px;
+	border: 1px solid black;
+	padding:4px;
+}
