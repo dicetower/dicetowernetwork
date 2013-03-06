@@ -197,3 +197,8 @@ span {
 .secondspan	{
 	margin-left:15px;
 }
+#adbanner{
+	margin-left:42px;
+	border: 1px solid black;
+	padding:4px;
+}
