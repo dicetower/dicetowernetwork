@@ -185,7 +185,7 @@
 				more about what makes board games tick. Join Flip the Table as they suffer for your entertainment. And remember...in Soviet Russia, 
 				Table Flips You!</p>
             <p>
-                <a href="http://feeds.feedburner.com/FlipTheTableBoardGames?format=xml"  target="_blank"> <span>RSS Feed</span> </a>
+                <a href="http://flipthetable.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
 		
