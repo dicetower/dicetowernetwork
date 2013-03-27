@@ -241,7 +241,7 @@
         </div>
 		
 		<div class="divheight">
-			<a href="http://hexencounter.blogspot.com/" target="_blank">
+			<a href="http://hexencounter.net/" target="_blank">
 				<img id="hex" src="/images/DTN_promo.png" alt="The Hex Encounter Logo" title="The Hex Encounter Wargaming Podcast"/></a>
             <p class="p5paddingtop" id="hexp">
                 The Hex Encounter Podcast focuses on wargames and historical simulations. Our show features reviews, previews, interviews, rants, and in-depth 
