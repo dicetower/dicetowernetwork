@@ -137,7 +137,7 @@
 
         <div class="divheight">
 
-            <a href="http://www.shutupshow.com/" target="_blank">
+            <a href="http://susd.pretend-money.com/" target="_blank">
                 <img id="susd" src="/images/SUSDBanner.png" alt="Shut Up Sit Down Logo" title="Click To Go To The SUSD Home Page"/></a>
             <p class="p5paddingtop">
                 A show all about board games, card games, and all the other games you can play in your very own house, Shut Up & Sit Down is made                                                                         by two men who never quite grew up. Coming from London, England, each half-hour episode includes game reviews and skits, as well as more than a little bickering. We believe gaming is one of the most exciting hobbies anyone can enjoy and we want to show you why we're so passionate about it. Why not tune in?</p>
@@ -236,7 +236,7 @@
 				of the rules of the game. Rather, it will be an in depth exploration of the merits or flaws of the game that become apparent when it it 
 				played multiple times. Thanks for listening!</p>
             <p>
-                <a href="http://www.2d6.org/feed/the-long-view/"  target="_blank"> <span>RSS Feed</span> </a>
+                <a href="http://feeds.feedburner.com/TheLongViewPodcast"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
 		
