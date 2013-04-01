@@ -30,8 +30,8 @@
         The Dice Tower Network is a group of podcasts and videocasts that
         promotes excellence and fun in board gaming.
     </h3>
-	<a  href="http://www.plaidhatgames.com/store" target="_blank">
-        <img id="adbanner" src="/images/summonerwars_banner.jpg" alt="Summoner Wars Banner" title="Click To Go To The Plaid Hat Games Store" />
+	<a  href="http://strongholdgames.com/store/" target="_blank">
+        <img id="adbanner" src="/images/728x90-04_01_13.jpg" alt="Stronghold Games Banner" title="Click To Go To The Stronghold Games Store" />
 	</a>
     <br/>
     <div>
