@@ -293,6 +293,21 @@
 				<a href="https://itunes.apple.com/us/podcast/rolling-dice-taking-names/id594264422?mt=2"  target="_blank"> <span class="secondspan"	>iTunes	</span> </a>
             </p>
         </div>
+		
+		<div class="divheight">
+			<a href="http://www.thepartygamecast.com/" target="_blank">
+				<img id="partygamecast" src="/images/partygamecast.png" alt="The Party Gamecast Logo" title="The Party Gamecast Podcast"/></a>
+            <p class="p5paddingtop">
+                The Party Gamecast featuring the Party Game Cast is a podcast about party games, and games you take to parties. The Dice Tower Network's hottest 
+				party includes a group of diverse gamers, from hard core strategy nerds, to light strategy gamers.  General geeks that think games can be fun, 
+				to senior citizens who play Agricola. Video gamers that will be wrangled into to playing games, to guys that only play poker and know nothing 
+				about board games.  The cast changes episode to episode but usually the Moderator Bruce is joined by Mike, Erika, Rocki, Maureen and Chris 
+				however new guests show up all the time.  If you want to know how a game will play in a party atmosphere, with a mix of tastes and styles, 
+				then this is the show for you.  </p>
+            <p>
+                <a href="http://thepartygamecast.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
     </div>
 </div>
 </body>
