@@ -194,6 +194,13 @@ span {
     clear:left;
 	padding-top:25px;
 }
+#partygamecast{
+	float:left;
+    margin-left:35px;
+    width:220px;
+    clear:left;
+	padding-top:18px;
+}
 .secondspan	{
 	margin-left:15px;
 }
