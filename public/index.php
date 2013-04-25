@@ -303,9 +303,26 @@
 				to senior citizens who play Agricola. Video gamers that will be wrangled into to playing games, to guys that only play poker and know nothing 
 				about board games.  The cast changes episode to episode but usually the Moderator Bruce is joined by Mike, Erika, Rocki, Maureen and Chris 
 				however new guests show up all the time.  If you want to know how a game will play in a party atmosphere, with a mix of tastes and styles, 
-				then this is the show for you.  </p>
+				then this is the show for you.</p>
             <p>
                 <a href="http://thepartygamecast.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://www.snakesandlattes.com/pages/podcast" target="_blank">
+				<img id="snakescast" src="/images/snakecast.png" alt="The SnakesCast Logo" title="The SnakesCast Podcast"/></a>
+            <p class="p5paddingtop">
+                The world of tabletop games is a lot bigger than most people realize.  In fact it's so big that the idea of investigating it can actually be 
+				kind of intimidating. When you see all those games you've never heard of, with rules and concepts and themes you've never seen before in a game, 
+				it's hard to know where to start.</p>
+			<p>	
+				The answer is: start with the SnakesCast. Every week, we'll bring you ten or fifteen minutes' worth of banter about what makes these 
+				games worth playing. With a different theme every episode and a rotating cast of both gurus and non-gurus from Toronto's premiere boardgame café, 
+				we'll show you just how much there is to play with out there.
+			</p>
+            <p>
+                <a href="http://podcast.snakesandlattes.com/podcast/1/feed.xml"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
     </div>
