@@ -201,6 +201,13 @@ span {
     clear:left;
 	padding-top:18px;
 }
+#snakescast{
+	float:left;
+    margin-left:35px;
+    width:220px;
+    clear:left;
+	padding-top:13px;
+}
 .secondspan	{
 	margin-left:15px;
 }
