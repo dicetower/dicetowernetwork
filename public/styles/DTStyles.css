@@ -208,6 +208,15 @@ span {
     clear:left;
 	padding-top:13px;
 }
+#explorgames{
+	float:left;
+    margin-left:35px;
+    width:220px;
+    clear:left;
+}
+#explorgamesp{
+	padding-top:30px;
+}
 .secondspan	{
 	margin-left:15px;
 }

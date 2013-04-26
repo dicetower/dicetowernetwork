@@ -325,6 +325,18 @@
                 <a href="http://podcast.snakesandlattes.com/podcast/1/feed.xml"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		
+		<div class="divheight">
+			<a href="http://gamerchris.com" target="_blank">
+				<img id="explorgames" src="/images/exploringgames.png" alt="The Exploring Games Logo" title="The Exploring Games Podcast"/></a>
+            <p class="p5paddingtop" id="explorgamesp">
+                Exploring Games is a podcast all about the modern boardgame hobby hosted by long-time blogger Chris Norwood (aka GamerChris). Each episode 
+				is chock-full of thoughts about specific games, trends in the hobby, metagame topics, and whatever else pours forth from his game-possessed brain. 
+				If you have an urge to dive a little deeper into all things boardgamey, come and explore games with Chris!</p>
+            <p>
+                <a href="http://gamerchris.com/podcasts-only/rss2.aspx"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
     </div>
 </div>
 </body>
