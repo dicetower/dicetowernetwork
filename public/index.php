@@ -31,7 +31,7 @@
         promotes excellence and fun in board gaming.
     </h3>
 	<a  href="http://strongholdgames.com/store/" target="_blank">
-        <img id="adbanner" src="/images/728x90-04_01_13.jpg" alt="Stronghold Games Banner" title="Click To Go To The Stronghold Games Store" />
+        <img id="adbanner" src="/images/leader-vampire-empire-volupsa-gif.gif" alt="Stronghold Games Banner" title="Click To Go To The Stronghold Games Store" />
 	</a>
     <br/>
     <div>
