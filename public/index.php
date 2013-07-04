@@ -31,7 +31,7 @@
         promotes excellence and fun in board gaming.
     </h3>
 	<a  href="http://www.strongholdgames.com" target="_blank">
-        <img id="adbanner" src="/images/728x90-04_01_13.jpg" alt="Stronghold Games Banner" title="Click To Go To The Stronghold Games Web Site" />
+        <img id="adbanner" src="/images/time-n-space-leader-1.gif" alt="Stronghold Games Banner" title="Click To Go To The Stronghold Games Web Site" />
 	</a>
     <br/>
     <div>
