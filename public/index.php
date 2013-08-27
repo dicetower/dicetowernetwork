@@ -62,6 +62,7 @@
                 <a href="http://ludology.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		<!--
         <div class="divheight">
 
             <a href="http://howtoplaypodcast.com" target="_blank">
@@ -77,6 +78,7 @@
                 <a href="http://howtoplaypodcast.com/rss" target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		-->
         <div class="divheight">
 
             <a href="http://littlemetaldog.com/" target="_blank">
@@ -134,7 +136,7 @@
                 <a href="http://njagp.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
-
+		<!--
         <div class="divheight">
 
             <a href="http://susd.pretend-money.com/" target="_blank">
@@ -145,6 +147,7 @@
                 <a href="http://www.shutupshow.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		-->
         <div class="divheight">
 
             <a href="http://www.gameopolis.org" target="_blank">
@@ -212,7 +215,7 @@
 				games, board games, RPG's and other topics near and dear to gamer's hearts. 
 			</p>
         </div>
-		
+		<!--
 		<div class="divheight">
             <a href="http://www.thegamersatlas.com" target="_blank">
                 <img id="gameratlas" src="/images/gameratlas.png" alt="The Gamer's Atlas Logo" title="Click To Go To The Gamer's Atlas Home Page"/></a>
@@ -225,7 +228,7 @@
                 <a href="http://thegamersatlas.wordpress.com/feed"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
-		
+		-->
 		<div class="divheight">
 			<a href="http://www.2d6.org/category/podcast/" target="_blank">
 				<img id="longview" src="/images/LongViewLogo2.jpg" alt="The Long View Logo" title="The Long View Podcast"/></a>
