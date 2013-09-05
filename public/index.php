@@ -242,7 +242,7 @@
                 <a href="http://feeds.feedburner.com/TheLongViewPodcast"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
-		
+		<!--
 		<div class="divheight">
 			<a href="http://hexencounter.net/" target="_blank">
 				<img id="hex" src="/images/DTN_promo.png" alt="The Hex Encounter Logo" title="The Hex Encounter Wargaming Podcast"/></a>
@@ -254,7 +254,7 @@
                 <a href="http://hexencounter.blogspot.com/feeds/posts/default?alt=rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
-		
+		-->
 		<div class="divheight">
 			<a href="http://www.spielama.de/" target="_blank">
 				<img id="spiel" src="/images/SpieLamadeLOGO.png" alt="The Spielama.de Logo" title="The Spielama.De Web Site"/></a>
