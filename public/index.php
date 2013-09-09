@@ -340,6 +340,16 @@
                 <a href="http://gamerchris.com/podcasts-only/rss2.aspx"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		
+		<div class="divheight">
+			<a href="http://bluepegpinkpeg.com/" target="_blank">
+				<img id="bluepeg" src="/images/bluepeglogo.jpg" alt="The Blue Peg Pink Peg Logo" title="The Blue Peg Pink Peg Podcast"/></a>
+            <p class="p5paddingtop" id="bluepegp">
+                Blue Peg, Pink Peg is a podcast about boardgames, relationships, and the interaction between the two. During each episode of Blue Peg, Pink 
+				Peg two boardgaming couples: share their gaming experiences and adventures; discuss and review games suitable for two player, family 
+				or small group play; and explore a topic unique to gaming couples or families. Each episode of Blue Peg, Pink Peg is a light, funny 
+				and friendly conversation to which all gamers are invited and welcomed.</p>
+        </div>
     </div>
 </div>
 </body>

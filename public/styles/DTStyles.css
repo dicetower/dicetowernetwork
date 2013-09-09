@@ -225,3 +225,13 @@ span {
 	border: 1px solid black;
 	padding:4px;
 }
+#bluepeg{
+	margin-top:25px;
+	float:left;
+    margin-left:35px;
+    width:230px;
+    clear:left;
+}
+#bluepegp{
+	padding-top:38px;
+}
