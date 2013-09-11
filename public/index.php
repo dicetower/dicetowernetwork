@@ -31,7 +31,7 @@
         promotes excellence and fun in board gaming.
     </h3>
 	<a  href="http://www.strongholdgames.com" target="_blank">
-        <img id="adbanner" src="/images/time-n-space-leader-1.gif" alt="Stronghold Games Banner" title="Click To Go To The Stronghold Games Web Site" />
+        <img id="adbanner" src="/images/Stronghold_Banner.jpg" alt="Stronghold Games Banner" title="Click To Go To The Stronghold Games Web Site" />
 	</a>
     <br/>
     <div>
@@ -349,6 +349,9 @@
 				Peg two boardgaming couples: share their gaming experiences and adventures; discuss and review games suitable for two player, family 
 				or small group play; and explore a topic unique to gaming couples or families. Each episode of Blue Peg, Pink Peg is a light, funny 
 				and friendly conversation to which all gamers are invited and welcomed.</p>
+			<p>
+                <a href="http://feeds.feedburner.com/BluePegPinkPeg"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
         </div>
     </div>
 </div>
