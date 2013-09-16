@@ -81,7 +81,7 @@
 		-->
         <div class="divheight">
 
-            <a href="http://littlemetaldog.com/" target="_blank">
+            <a href="http://littlemetaldog.com/episode-list/" target="_blank">
                 <img id="lmds" src="/images/littlemetal.png" alt="Little Metal Dog Logo" title="Click To Go To The Little Metal Dog Home Page"/></a>
             <p>
                 The Little Metal Dog Show began back in April 2010 with an idea to produce a podcast on board games that did things a little
@@ -110,7 +110,7 @@
 
         <div class="divheight">
 
-            <a href="http://www.plaidhatgames.com/" target="_blank">
+            <a href="http://www.plaidhatgames.com/podcast" target="_blank">
                 <img id="phg" src="/images/PHGames.png" alt="Plaid Hat Games Logo" title="Click To Go To The Plaid Hat Games Home Page"/></a>
             <p class="p5paddingtop">
                 The Plaid Hat Podcast takes you inside of one small publisher's adventures
@@ -194,7 +194,7 @@
 		
 		<div class="divheight">
 
-            <a href="http://www.thecardboardjungle.com" target="_blank">
+            <a href="http://www.cbjpodcast.com/episodes/" target="_blank">
                 <img id="cardboardjungle" src="/images/cardboardjunglelogo.png" alt="Cardboard Jungle Logo" title="Click To Go To The Cardboard Jungle Home Page"/></a>
             <p id="cardboardjunglep" class="p5paddingtop">
                 The Cardboard Jungle is a podcast all about tabletop gaming hosted by
@@ -298,7 +298,7 @@
         </div>
 		
 		<div class="divheight">
-			<a href="http://www.thepartygamecast.com/" target="_blank">
+			<a href="http://www.thepartygamecast.com/#Podcasts" target="_blank">
 				<img id="partygamecast" src="/images/partygamecast.png" alt="The Party Gamecast Logo" title="The Party Gamecast Podcast"/></a>
             <p class="p5paddingtop">
                 The Party Gamecast featuring the Party Game Cast is a podcast about party games, and games you take to parties. The Dice Tower Network's hottest 
@@ -330,7 +330,7 @@
         </div>
 		
 		<div class="divheight">
-			<a href="http://gamerchris.com" target="_blank">
+			<a href="http://gamerchris.com/categories/263/exploring-games-podcast.aspx" target="_blank">
 				<img id="explorgames" src="/images/exploringgames.png" alt="The Exploring Games Logo" title="The Exploring Games Podcast"/></a>
             <p class="p5paddingtop" id="explorgamesp">
                 Exploring Games is a podcast all about the modern boardgame hobby hosted by long-time blogger Chris Norwood (aka GamerChris). Each episode 
@@ -338,6 +338,18 @@
 				If you have an urge to dive a little deeper into all things boardgamey, come and explore games with Chris!</p>
             <p>
                 <a href="http://gamerchris.com/podcasts-only/rss2.aspx"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://www.boardgameuniversity.com/" target="_blank">
+				<img id="bgu" src="/images/BGU_logo.png" alt="The Board Game University Logo" title="The Board Game University Podcast"/></a>
+            <p class="p5paddingtop" id="bgup">
+                Board Game University is hosted by Tom Vasel and is a series of interviews with folks in the gaming industry.  Each show 
+				is twenty to thirty minutes of good solid advice from publishers, designers, artists, and more!  Want to know what goes 
+				behind bringing your favorite games to the shelves?  Listen and learn!</p>
+			<p>
+                <a href="http://boardgameuniversity.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
 		
@@ -351,6 +363,17 @@
 				and friendly conversation to which all gamers are invited and welcomed.</p>
 			<p>
                 <a href="http://feeds.feedburner.com/BluePegPinkPeg"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://dicetowershowdown.libsyn.com/webpage" target="_blank">
+				<img id="dts" src="/images/dicetowerShowdown_logo.png" alt="The Dice Tower Showdown Logo" title="The Dice Tower Showdown Podcast"/></a>
+            <p class="p5paddingtop" id="dtsp">
+                Dice Tower Showdown is moderated by Tom Vasel and features enthusiastic gamers debating on various games and gaming ideas.  Is game A 
+				better than game B?  What about the hot topic of the day?  Debate is spirited but friendly, and lets you hear both sides of each debate.</p>
+			<p>
+                <a href="http://dicetowershowdown.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
     </div>
