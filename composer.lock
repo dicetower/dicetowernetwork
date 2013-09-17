@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "c09e7c30003f171098415bf3f0223b03",
+    "hash": "c3ab27beda5b399eed1a48258c3db9e3",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -450,6 +450,42 @@
                 "parameters management"
             ],
             "time": "2013-04-06 17:15:44"
+        },
+        {
+            "name": "janiv/html5starter",
+            "version": "v0.5",
+            "target-dir": "Janiv/Bundle/HTML5StarterBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/janiv/html5starterBundle.git",
+                "reference": "f37b2be49c0ff911d8ec489067a60fa93e4aecf3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/janiv/html5starterBundle/zipball/f37b2be49c0ff911d8ec489067a60fa93e4aecf3",
+                "reference": "f37b2be49c0ff911d8ec489067a60fa93e4aecf3",
+                "shasum": ""
+            },
+            "require": {
+                "symfony/symfony": "~2.1"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-0": {
+                    "Janiv\\Bundle\\HTML5StarterBundle": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Striped down HTML5 Boilerplate for Symfony2 with Twig Blocks and jQuery",
+            "homepage": "https://github.com/janiv/html5starterBundle",
+            "keywords": [
+                "HTML5",
+                "html5starter"
+            ],
+            "time": "2013-06-26 19:11:00"
         },
         {
             "name": "kriswallsmith/assetic",

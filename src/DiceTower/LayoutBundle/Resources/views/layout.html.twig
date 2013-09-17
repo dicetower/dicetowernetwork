@@ -1,0 +1,25 @@
+{% extends 'JanivHTML5StarterBundle::html5.html.twig' %}
+
+{% block head_meta %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{% block head_meta_description %}{% endblock head_meta_description %}">
+{% endblock %}
+
+{% block head_css %}
+    {% stylesheets
+        '@DiceTowerLayoutBundle/Resources/sass/main.scss'
+    %}
+        <link href="{{ asset_url }}" rel="stylesheet" />
+    {% endstylesheets %}
+{% endblock %}
+
+{% block head_title %}
+    {% block head_subtitle %}{% endblock %}
+    | Dice Tower Network
+{% endblock %}
+
+{% block body %}
+    Here I am
+{% endblock %}

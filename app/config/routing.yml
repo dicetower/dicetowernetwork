@@ -1,0 +1,5 @@
+dice_tower_directory:
+    resource: "@DiceTowerDirectoryBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

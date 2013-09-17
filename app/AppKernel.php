@@ -13,6 +13,9 @@ class AppKernel extends Kernel
             new Symfony\Bundle\MonologBundle\MonologBundle(),
             new Symfony\Bundle\AsseticBundle\AsseticBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
+            new Janiv\Bundle\HTML5StarterBundle\JanivHTML5StarterBundle(),
+            new DiceTower\LayoutBundle\DiceTowerLayoutBundle(),
+            new DiceTower\DirectoryBundle\DiceTowerDirectoryBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

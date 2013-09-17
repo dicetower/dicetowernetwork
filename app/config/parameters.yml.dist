@@ -1,3 +1,7 @@
 parameters:
     locale:            en
     secret:            DcsV2krK$PMkWZ24KD@P;7m2^xkaFMREk8NCYG#c
+    node_path:         /usr/bin/node
+    assetic_compass:   /usr/bin/compass
+    uglifycss:         /usr/bin/uglifycss
+    uglifyjs:          /usr/bin/uglifyjs
