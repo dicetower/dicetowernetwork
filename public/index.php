@@ -45,7 +45,7 @@
                   also home of the Dice Tower video show - in which Tom Vasel and many others consistently review all manner of board and card games.             </p>
             <p>
                 <span>RSS Feed: </span><a href="http://pipes.yahoo.com/pipes/pipe.run?_id=5e24e64f9283370cee91baa60f95bc04&_render=rss"  target="_blank"> Audio </a> &nbsp;
-               <a href="http://dicetowerdeluxe.coolstuffinc.com/rss"  target="_blank"> Enhanced Audio</a> &nbsp;
+               <a href="http://dicetowerdeluxe.coolstuffinc.com/rss"  target="_blank">Enhanced Audio</a> &nbsp;
                <a href="http://pipes.yahoo.com/pipes/pipe.run?_id=e9eace93b73cbc8e0e7951fbd0f2647b&_render=rss"  target="_blank"> Video </a>
             </p>
     </div>
