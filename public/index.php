@@ -30,8 +30,8 @@
         The Dice Tower Network is a group of podcasts and videocasts that
         promotes excellence and fun in board gaming.
     </h3>
-	<a  href="http://www.strongholdgames.com" target="_blank">
-        <img id="adbanner" src="/images/Stronghold_Banner.jpg" alt="Stronghold Games Banner" title="Click To Go To The Stronghold Games Web Site" />
+	<a  href="http://www.IndieBoardsAndCards.com" target="_blank">
+        <img id="adbanner" src="/images/dtadbanner2.gif" alt="Indie Boards and Cards Banner" title="Click To Go To The Indie Boards and Cards Web Site" />
 	</a>
     <br/>
     <div>
