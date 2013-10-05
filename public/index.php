@@ -376,6 +376,20 @@
                 <a href="http://dicetowershowdown.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		
+		<div class="divheight">
+			<a href="http://www.happymittengames.com/" target="_blank">
+				<img id="hm" src="/images/HappyMittenLogo.png" alt="The Happy Mitten Games Logo" title="The Happy Mitten Games Website"/></a>
+            <p class="p5paddingtop" id="hmp">
+                Jeff, Leandra, and Kyle of Happy Mitten Games invite listeners on their adventure of running a board and card game publishing company. Join 
+				the conversation as they discuss the hobby and business of tabletop games including topics like trending issues, designing, publishing, marketing, 
+				Kickstarter, interviews and more. Listeners will get an inside look at the trio’s successes, setbacks, and opinions on gaming as a 
+				whole. Whether it’s industry knowledge or a little entertainment you’re looking for, Happy Mitten delivers.</p>
+			<p>
+                <a href="http://www.happymittengames.com/feed/"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
     </div>
 </div>
 </body>
