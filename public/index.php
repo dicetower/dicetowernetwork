@@ -390,6 +390,22 @@
             </p>
         </div>
 		
+		<div class="divheight">
+			<a href="http://thegamepit.podbean.com/" target="_blank">
+				<img id="gamepit" src="/images/GamePitLogo.png" alt="The Game Pit Logo" title="The Game Pit Website"/></a>
+            <p class="p5paddingtop" id="gamepitp">
+                The Game Pit is a board game podcast based out of London, UK. Hosted by Sean and Ronan, every 
+				two weeks they discuss tabletop games which have fallen into the pit whether it be 
+				‘Picking over the Bones’ of new and older releases, going on a ‘Treasure Hunt’ by 
+				previewing upcoming releases, sorting out the best from the rest in ‘The Vault’ or 
+				contrasting similar games in ‘Pit Fight’.  Sean enjoys thematic games and gaming bling while 
+				Ronan likes to delve into the mechanisms of a game and enjoys the social interaction in tabletop 
+				gaming. These contrasting viewpoints lead to some lively discussions. </p>
+			<p>
+                <a href="http://thegamepit.podbean.com/feed/"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
     </div>
 </div>
 </body>

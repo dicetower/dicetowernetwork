@@ -263,3 +263,12 @@ span {
 #hmp{
 	padding-top:12px;
 }
+#gamepit{
+	float:left;
+    margin-left:36px;
+    width:235px;
+    clear:left;
+}
+#gamepitp{
+	padding-top:12px;
+}
