@@ -272,3 +272,8 @@ span {
 #gamepitp{
 	padding-top:12px;
 }
+#pylp {
+    float:left;
+    padding-top:1px;
+    width:300px;
+}
