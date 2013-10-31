@@ -30,10 +30,14 @@
         The Dice Tower Network is a group of podcasts and videocasts that
         promotes excellence and fun in board gaming.
     </h3>
+	
+	<!--            ADVERTISING BANNER
 	<a  href="http://www.IndieBoardsAndCards.com" target="_blank">
         <img id="adbanner" src="/images/dtadbanner2.gif" alt="Indie Boards and Cards Banner" title="Click To Go To The Indie Boards and Cards Web Site" />
 	</a>
     <br/>
+	
+	-->
     <div>
         <div class="divheight">
 
@@ -403,6 +407,21 @@
 				gaming. These contrasting viewpoints lead to some lively discussions. </p>
 			<p>
                 <a href="http://thegamepit.podbean.com/feed/"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+
+            <a href="http://www.pushurluckpodcast.com/" target="_blank">
+                <img id="pylp" src="/images/PYLPLogo.png" alt="Push Your Luck Podcast Logo" title="Click To Go To The Push Your Luck Podcast Home Page"/></a>
+            <p>
+                All the way from sunny Singapore, this is Push Your Luck Podcast, hosted by Eric and Jonathan. Every fortnight, we will have a 
+				different topic and invite designers, publishers or even other podcasters to join us in our lively discussions. We are one 
+				of the first boardgame related podcasts in Asia and hope to give some insight into the world of boardgames in the region!
+            </p>
+            <p>
+                <a href="http://s3.amazonaws.com/PushUrLuckPodcast/pulp_feed.xml"  target="_blank"> <span>RSS Feed</span> </a>
+				<a href="http://www.youtube.com/channel/UCHG7tj7F-wRagWPeOr6uy9Q"  target="_blank"> <span class="secondspan"	>Video Channel</span> </a>
             </p>
         </div>
 		
