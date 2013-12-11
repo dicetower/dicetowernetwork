@@ -31,13 +31,13 @@
         promotes excellence and fun in board gaming.
     </h3>
 	
-	<!--            ADVERTISING BANNER
-	<a  href="http://www.IndieBoardsAndCards.com" target="_blank">
-        <img id="adbanner" src="/images/dtadbanner2.gif" alt="Indie Boards and Cards Banner" title="Click To Go To The Indie Boards and Cards Web Site" />
+	<!--            ADVERTISING BANNER  -->
+	<a  href="http://www.kickstarter.com/projects/level99games/argent-the-consortium-influence-intrigue-power" target="_blank">
+        <img id="adbanner" src="/images/argent_ad_2.gif" alt="Check Out Argent - New From Level99 Games!!" title="Click To Go To The Argent Kickstarter Page" />
 	</a>
     <br/>
 	
-	-->
+
     <div>
         <div class="divheight">
 
