@@ -427,6 +427,20 @@
             </p>
         </div>
 		
+		<div class="divheight">
+
+            <a href="http://startspacepodcast.blogspot.com/" target="_blank">
+                <img id="stsp" src="/images/startSpaceLogo.png" alt="Start Space Podcast Logo" title="Click To Go To The Start Space Podcast Home Page"/></a>
+            <p id="stspp">
+                Are you new on the gaming scene? Are you a grizzled vet who's interested in what those newbies think about the games you love? 
+				Want some insight on getting friends into the hobby? Then the Start Space Podcast is the show for you! Join brothers and co-hosts 
+				Eddie and Tony each week as they review games and discuss varying aspects of the tabletop scene from the perspective of the new gamer.
+            </p>
+            <p>
+                <a href="http://startspacepodcast.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
     </div>
 </div>
 </body>
