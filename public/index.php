@@ -441,6 +441,20 @@
             </p>
         </div>
 		
+		<div class="divheight">
+
+            <a href="http://todayinboardgames.com/" target="_blank">
+                <img id="tibg" src="/images/TodayInBoardGames.png" alt="Today in Board Games Logo" title="Click To Go To Today in Board Games Home Page"/></a>
+            <p id="tibgp">
+                The Today in Board Games Week in Review covers the latest in gaming. In each episode host Roger interviews one or more influential 
+				gamers, game publishers, designers, app developers, industry leaders, bloggers, podcasters, and/or videographers. We discuss the latest 
+				games (both new and upcoming), go in depth about hot Kickstarter projects, and talk trends, events, and predictions.
+            </p>
+            <p>
+                <a href="http://feeds.feedburner.com/TodayInBoardGamesReview"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
     </div>
 </div>
 </body>
