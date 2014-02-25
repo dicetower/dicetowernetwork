@@ -455,6 +455,20 @@
             </p>
         </div>
 		
+		<div class="divheight">
+
+            <a href="http://boardsandswords.com/" target="_blank">
+                <img id="bas" src="/images/boardsSwordsLogo.png" alt="Boards & Swords Logo" title="Click To Go the Boards and Swords Home Page"/></a>
+            <p id="basp">
+                Boards & Swords - A podcast about board games, card games, and other tabletop games. Every other week, Chris Renshaw sits down and talks 
+				about his experiences discovering new and cool games. Each episode, expect to hear great tales ranging from Magic: The Gathering to 
+				Dungeons & Dragons. Also, each episode Chris breaks down one board game so that everyone understands the basics of the game.
+            </p>
+            <p>
+                <a href="http://feeds.feedburner.com/boardsandswords"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
     </div>
 </div>
 </body>
