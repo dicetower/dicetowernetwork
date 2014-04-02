@@ -289,7 +289,7 @@
         </div>
 		
 		<div class="divheight">
-			<a href="http://rolldicetakenames.blogspot.com/" target="_blank">
+			<a href="http://www.rolldicetakenames.com/" target="_blank">
 				<img id="rollingdice" src="/images/rollingDice.png" alt="The Rolling Dice Logo" title="The Rolling Dice Taking Names Podcast"/></a>
             <p class="p5paddingtop">
                 Rolling Dice & Taking Names is a podcast where two seasoned tabletop gamers have discussions about board games, RPGs, and miniatures 
@@ -466,6 +466,20 @@
             </p>
             <p>
                 <a href="http://feeds.feedburner.com/boardsandswords"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://brokenmeeple.blogspot.co.uk/" target="_blank">
+				<img id="bm" src="/images/brokenmeeplelogo.jpg" alt="The Broken Meeple Logo" title="The Broken Meeple Podcast"/></a>
+            <p class="p5paddingtop" id="bmp">
+                The Broken Meeple is a show based in the UK set up in August 2013 that reports on board and card games from the perspective of Luke Hector, a 
+				born-again hard-core gamer. The podcast gives my first impressions of recent board games played, discusses various gaming related subjects that 
+				are topical and recently now issues a new Top 10 list every episode chosen by you, the gamers on BoardGameGeek. The aim of the podcast is to give a 
+				fun and interesting look on the board gaming hobby whilst not being afraid of going against the hype when necessary. The podcast can also be subscribed 
+				to on ITunes.</p>
+            <p>
+                <a href="http://feeds.soundcloud.com/users/soundcloud:users:52492923/sounds.rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
 		
