@@ -28,9 +28,18 @@
     <br/>
     <h3>
         The Dice Tower Network is a group of podcasts and videocasts that
-        promote excellence and fun in board gaming.
+        promotes excellence and fun in board gaming.
     </h3>
+	
+	<!--            ADVERTISING BANNER  
+	
+	<a  href="http://www.kickstarter.com/projects/level99games/argent-the-consortium-influence-intrigue-power" target="_blank">
+        <img id="adbanner" src="/images/argent_ad_2.gif" alt="Check Out Argent - New From Level99 Games!!" title="Click To Go To The Argent Kickstarter Page" />
+	</a>
     <br/>
+	
+	-->
+
     <div>
         <div class="divheight">
 
@@ -42,7 +51,7 @@
                   also home of the Dice Tower video show - in which Tom Vasel and many others consistently review all manner of board and card games.             </p>
             <p>
                 <span>RSS Feed: </span><a href="http://pipes.yahoo.com/pipes/pipe.run?_id=5e24e64f9283370cee91baa60f95bc04&_render=rss"  target="_blank"> Audio </a> &nbsp;
-               <a href="http://www.funagain.com/control/viewblog.xml?contentBlogId=TDTE"  target="_blank"> Enhanced Audio </a> &nbsp;
+               <a href="http://dicetowerdeluxe.coolstuffinc.com/rss"  target="_blank">Enhanced Audio</a> &nbsp;
                <a href="http://pipes.yahoo.com/pipes/pipe.run?_id=e9eace93b73cbc8e0e7951fbd0f2647b&_render=rss"  target="_blank"> Video </a>
             </p>
     </div>
@@ -59,6 +68,7 @@
                 <a href="http://ludology.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		<!--
         <div class="divheight">
 
             <a href="http://howtoplaypodcast.com" target="_blank">
@@ -74,9 +84,10 @@
                 <a href="http://howtoplaypodcast.com/rss" target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		-->
         <div class="divheight">
 
-            <a href="http://littlemetaldog.com/" target="_blank">
+            <a href="http://littlemetaldog.com/episode-list/" target="_blank">
                 <img id="lmds" src="/images/littlemetal.png" alt="Little Metal Dog Logo" title="Click To Go To The Little Metal Dog Home Page"/></a>
             <p>
                 The Little Metal Dog Show began back in April 2010 with an idea to produce a podcast on board games that did things a little
@@ -105,7 +116,7 @@
 
         <div class="divheight">
 
-            <a href="http://www.plaidhatgames.com/" target="_blank">
+            <a href="http://www.plaidhatgames.com/podcast" target="_blank">
                 <img id="phg" src="/images/PHGames.png" alt="Plaid Hat Games Logo" title="Click To Go To The Plaid Hat Games Home Page"/></a>
             <p class="p5paddingtop">
                 The Plaid Hat Podcast takes you inside of one small publisher's adventures
@@ -131,10 +142,10 @@
                 <a href="http://njagp.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
-
+		<!--
         <div class="divheight">
 
-            <a href="http://www.shutupshow.com/" target="_blank">
+            <a href="http://susd.pretend-money.com/" target="_blank">
                 <img id="susd" src="/images/SUSDBanner.png" alt="Shut Up Sit Down Logo" title="Click To Go To The SUSD Home Page"/></a>
             <p class="p5paddingtop">
                 A show all about board games, card games, and all the other games you can play in your very own house, Shut Up & Sit Down is made                                                                         by two men who never quite grew up. Coming from London, England, each half-hour episode includes game reviews and skits, as well as more than a little bickering. We believe gaming is one of the most exciting hobbies anyone can enjoy and we want to show you why we're so passionate about it. Why not tune in?</p>
@@ -142,6 +153,7 @@
                 <a href="http://www.shutupshow.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		-->
         <div class="divheight">
 
             <a href="http://www.gameopolis.org" target="_blank">
@@ -182,13 +194,13 @@
 				more about what makes board games tick. Join Flip the Table as they suffer for your entertainment. And remember...in Soviet Russia, 
 				Table Flips You!</p>
             <p>
-                <a href="http://feeds.feedburner.com/FlipTheTableBoardGames?format=xml"  target="_blank"> <span>RSS Feed</span> </a>
+                <a href="http://flipthetable.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
 		
 		<div class="divheight">
 
-            <a href="http://www.thecardboardjungle.com" target="_blank">
+            <a href="http://www.cbjpodcast.com/episodes/" target="_blank">
                 <img id="cardboardjungle" src="/images/cardboardjunglelogo.png" alt="Cardboard Jungle Logo" title="Click To Go To The Cardboard Jungle Home Page"/></a>
             <p id="cardboardjunglep" class="p5paddingtop">
                 The Cardboard Jungle is a podcast all about tabletop gaming hosted by
@@ -209,7 +221,7 @@
 				games, board games, RPG's and other topics near and dear to gamer's hearts. 
 			</p>
         </div>
-		
+		<!--
 		<div class="divheight">
             <a href="http://www.thegamersatlas.com" target="_blank">
                 <img id="gameratlas" src="/images/gameratlas.png" alt="The Gamer's Atlas Logo" title="Click To Go To The Gamer's Atlas Home Page"/></a>
@@ -222,7 +234,7 @@
                 <a href="http://thegamersatlas.wordpress.com/feed"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
-		
+		-->
 		<div class="divheight">
 			<a href="http://www.2d6.org/category/podcast/" target="_blank">
 				<img id="longview" src="/images/LongViewLogo2.jpg" alt="The Long View Logo" title="The Long View Podcast"/></a>
@@ -233,12 +245,12 @@
 				of the rules of the game. Rather, it will be an in depth exploration of the merits or flaws of the game that become apparent when it it 
 				played multiple times. Thanks for listening!</p>
             <p>
-                <a href="http://www.2d6.org/feed/the-long-view/"  target="_blank"> <span>RSS Feed</span> </a>
+                <a href="http://feeds.feedburner.com/TheLongViewPodcast"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
-		
+		<!--
 		<div class="divheight">
-			<a href="http://hexencounter.blogspot.com/" target="_blank">
+			<a href="http://hexencounter.net/" target="_blank">
 				<img id="hex" src="/images/DTN_promo.png" alt="The Hex Encounter Logo" title="The Hex Encounter Wargaming Podcast"/></a>
             <p class="p5paddingtop" id="hexp">
                 The Hex Encounter Podcast focuses on wargames and historical simulations. Our show features reviews, previews, interviews, rants, and in-depth 
@@ -248,18 +260,212 @@
                 <a href="http://hexencounter.blogspot.com/feeds/posts/default?alt=rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		-->
+		<div class="divheight">
+			<a href="http://www.spielama.de/" target="_blank">
+				<img id="spiel" src="/images/SpieLamadeLOGO.png" alt="The Spielama.de Logo" title="The Spielama.De Web Site"/></a>
+            <p class="p5paddingtop" id="spielp">
+                SpieLama.de is Germany's premier video-review website for all manner of board, card and iDevice games. For over three years now we have dedicated 
+				ourselves to giving in-depth reviews of all things "game".  Lead by Benjamin Schönheiter and Bastian Völkel, SpieLama also tries to broaden 
+				the knowledge of games by doing specials on boardgames, their mechanics, discuss prototypes we played, have walk-through tutorials of the most 
+				complicated games and with our LamasLive segment we talk about our hobby, upcoming games, trade shows like SPIEL or Nuremberg and so much more. 
+				Thank you for watching!</p>
+            <p>
+                <a href="http://www.spielama.de/?feed=rss2"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
 		
 		<div class="divheight">
-			<a href="http://brokenmeeple.blogspot.co.uk/" target="_blank">
-				<img id="bm" src="/images/brokenmeeplelogo.jpg" alt="The Broken Meeple Logo" title="The Broken Meeple Podcast"/></a>
-            <p class="p5paddingtop" id="bmp">
-                The Broken Meeple is a show based in the UK set up in August 2013 that reports on board and card games from the perspective of Luke Hector, a 
-				born-again hard-core gamer. The podcast gives my first impressions of recent board games played, discusses various gaming related subjects that 
-				are topical and recently now issues a new Top 10 list every episode chosen by you, the gamers on BoardGameGeek. The aim of the podcast is to give a 
-				fun and interesting look on the board gaming hobby whilst not being afraid of going against the hype when necessary. The podcast can also be subscribed 
-				to on ITunes.</p>
+			<a href="http://www.thegeekallstars.com/" target="_blank">
+				<img id="geekallstars" src="/images/thegeekallstars_300x300.jpg" alt="The Geek All-Stars Logo" title="The Geek All-Stars Web Site"/></a>
+            <p class="p5paddingtop" id="geekallstarsp">
+                The Geek All-Stars is a podcast about board games, card games, video games, MMO's, movies, TV, and anything else that comes to our minds.  Each episode contains a varied group 
+				of "All-Stars" from the geek world.  Join Dan/GeekJock to discuss the topics of the day.  We are joined, on a regular basis, by industry insiders such as Dice Hate Me Games' 
+				Chris K, video game developer/journalist Josh Augustine, prominent bloggers such as Tom Gurganus, and (of course) guys with more games then we care to count (as in Adam O.)  
+				I cannot promise we will always stay on topic, but I can promise we will have a good time!</p>
             <p>
-                <a href="http://feeds.soundcloud.com/users/soundcloud:users:52492923/sounds.rss"  target="_blank"> <span>RSS Feed</span> </a>
+                <a href="http://thegeekallstars.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://rolldicetakenames.blogspot.com/" target="_blank">
+				<img id="rollingdice" src="/images/rollingDice.png" alt="The Rolling Dice Logo" title="The Rolling Dice Taking Names Podcast"/></a>
+            <p class="p5paddingtop">
+                Rolling Dice & Taking Names is a podcast where two seasoned tabletop gamers have discussions about board games, RPGs, and miniatures 
+				that are entertaining and informative to casual gamers and experienced hobbyists alike. The level of conversation would be similar to 
+				friends sitting around the kitchen table playing the latest game, discussing their likes and dislikes of a style of game, or just trying 
+				to make sense of the latest gaming news. In addition, special guests add their gaming knowledge to help the hosts sound more credible. 
+				Family friendly, informative and always striving to be entertaining.</p>
+            <p>
+                <a href="http://feeds.feedblitz.com/rolldicetakenames"  target="_blank"> <span>RSS Feed</span> </a>
+				<a href="https://itunes.apple.com/us/podcast/rolling-dice-taking-names/id676866176"  target="_blank"> <span class="secondspan"	>iTunes	</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://www.thepartygamecast.com/#Podcasts" target="_blank">
+				<img id="partygamecast" src="/images/partygamecast.png" alt="The Party Gamecast Logo" title="The Party Gamecast Podcast"/></a>
+            <p class="p5paddingtop">
+                The Party Gamecast featuring the Party Game Cast is a podcast about party games, and games you take to parties. The Dice Tower Network's hottest 
+				party includes a group of diverse gamers, from hard core strategy nerds, to light strategy gamers.  General geeks that think games can be fun, 
+				to senior citizens who play Agricola. Video gamers that will be wrangled into to playing games, to guys that only play poker and know nothing 
+				about board games.  The cast changes episode to episode but usually the Moderator Bruce is joined by Mike, Erika, Rocki, Maureen and Chris 
+				however new guests show up all the time.  If you want to know how a game will play in a party atmosphere, with a mix of tastes and styles, 
+				then this is the show for you.</p>
+            <p>
+                <a href="http://thepartygamecast.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://www.snakesandlattes.com/pages/podcast" target="_blank">
+				<img id="snakescast" src="/images/snakecast.png" alt="The SnakesCast Logo" title="The SnakesCast Podcast"/></a>
+            <p class="p5paddingtop">
+                The world of tabletop games is a lot bigger than most people realize.  In fact it's so big that the idea of investigating it can actually be 
+				kind of intimidating. When you see all those games you've never heard of, with rules and concepts and themes you've never seen before in a game, 
+				it's hard to know where to start.</p>
+			<p>	
+				The answer is: start with the SnakesCast. Every week, we'll bring you ten or fifteen minutes' worth of banter about what makes these 
+				games worth playing. With a different theme every episode and a rotating cast of both gurus and non-gurus from Toronto's premiere boardgame café, 
+				we'll show you just how much there is to play with out there.
+			</p>
+            <p>
+                <a href="http://podcast.snakesandlattes.com/podcast/1/feed.xml"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://gamerchris.com/categories/263/exploring-games-podcast.aspx" target="_blank">
+				<img id="explorgames" src="/images/exploringgames.png" alt="The Exploring Games Logo" title="The Exploring Games Podcast"/></a>
+            <p class="p5paddingtop" id="explorgamesp">
+                Exploring Games is a podcast all about the modern boardgame hobby hosted by long-time blogger Chris Norwood (aka GamerChris). Each episode 
+				is chock-full of thoughts about specific games, trends in the hobby, metagame topics, and whatever else pours forth from his game-possessed brain. 
+				If you have an urge to dive a little deeper into all things boardgamey, come and explore games with Chris!</p>
+            <p>
+                <a href="http://gamerchris.com/podcasts-only/rss2.aspx"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://www.boardgameuniversity.com/" target="_blank">
+				<img id="bgu" src="/images/BGU_logo.png" alt="The Board Game University Logo" title="The Board Game University Podcast"/></a>
+            <p class="p5paddingtop" id="bgup">
+                Board Game University is hosted by Tom Vasel and is a series of interviews with folks in the gaming industry.  Each show 
+				is twenty to thirty minutes of good solid advice from publishers, designers, artists, and more!  Want to know what goes 
+				behind bringing your favorite games to the shelves?  Listen and learn!</p>
+			<p>
+                <a href="http://boardgameuniversity.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://bluepegpinkpeg.com/" target="_blank">
+				<img id="bluepeg" src="/images/bluepeglogo.jpg" alt="The Blue Peg Pink Peg Logo" title="The Blue Peg Pink Peg Podcast"/></a>
+            <p class="p5paddingtop" id="bluepegp">
+                Blue Peg, Pink Peg is a podcast about boardgames, relationships, and the interaction between the two. During each episode of Blue Peg, Pink 
+				Peg two boardgaming couples: share their gaming experiences and adventures; discuss and review games suitable for two player, family 
+				or small group play; and explore a topic unique to gaming couples or families. Each episode of Blue Peg, Pink Peg is a light, funny 
+				and friendly conversation to which all gamers are invited and welcomed.</p>
+			<p>
+                <a href="http://feeds.feedburner.com/BluePegPinkPeg"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://dicetowershowdown.libsyn.com/webpage" target="_blank">
+				<img id="dts" src="/images/dicetowerShowdown_logo.png" alt="The Dice Tower Showdown Logo" title="The Dice Tower Showdown Podcast"/></a>
+            <p class="p5paddingtop" id="dtsp">
+                Dice Tower Showdown is moderated by Tom Vasel and features enthusiastic gamers debating on various games and gaming ideas.  Is game A 
+				better than game B?  What about the hot topic of the day?  Debate is spirited but friendly, and lets you hear both sides of each debate.</p>
+			<p>
+                <a href="http://dicetowershowdown.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://www.happymittengames.com/" target="_blank">
+				<img id="hm" src="/images/HappyMittenLogo.png" alt="The Happy Mitten Games Logo" title="The Happy Mitten Games Website"/></a>
+            <p class="p5paddingtop" id="hmp">
+                Jeff, Leandra, and Kyle of Happy Mitten Games invite listeners on their adventure of running a board and card game publishing company. Join 
+				the conversation as they discuss the hobby and business of tabletop games including topics like trending issues, designing, publishing, marketing, 
+				Kickstarter, interviews and more. Listeners will get an inside look at the trio’s successes, setbacks, and opinions on gaming as a 
+				whole. Whether it’s industry knowledge or a little entertainment you’re looking for, Happy Mitten delivers.</p>
+			<p>
+                <a href="http://www.happymittengames.com/feed/"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://thegamepit.podbean.com/" target="_blank">
+				<img id="gamepit" src="/images/GamePitLogo.png" alt="The Game Pit Logo" title="The Game Pit Website"/></a>
+            <p class="p5paddingtop" id="gamepitp">
+                The Game Pit is a board game podcast based out of London, UK. Hosted by Sean and Ronan, every 
+				two weeks they discuss tabletop games which have fallen into the pit whether it be 
+				‘Picking over the Bones’ of new and older releases, going on a ‘Treasure Hunt’ by 
+				previewing upcoming releases, sorting out the best from the rest in ‘The Vault’ or 
+				contrasting similar games in ‘Pit Fight’.  Sean enjoys thematic games and gaming bling while 
+				Ronan likes to delve into the mechanisms of a game and enjoys the social interaction in tabletop 
+				gaming. These contrasting viewpoints lead to some lively discussions. </p>
+			<p>
+                <a href="http://thegamepit.podbean.com/feed/"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+
+            <a href="http://www.pushurluckpodcast.com/" target="_blank">
+                <img id="pylp" src="/images/PYLPLogo.png" alt="Push Your Luck Podcast Logo" title="Click To Go To The Push Your Luck Podcast Home Page"/></a>
+            <p>
+                All the way from sunny Singapore, this is Push Your Luck Podcast, hosted by Eric and Jonathan. Every fortnight, we will have a 
+				different topic and invite designers, publishers or even other podcasters to join us in our lively discussions. We are one 
+				of the first boardgame related podcasts in Asia and hope to give some insight into the world of boardgames in the region!
+            </p>
+            <p>
+                <a href="http://s3.amazonaws.com/PushUrLuckPodcast/pulp_feed.xml"  target="_blank"> <span>RSS Feed</span> </a>
+				<a href="http://www.youtube.com/channel/UCHG7tj7F-wRagWPeOr6uy9Q"  target="_blank"> <span class="secondspan"	>Video Channel</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+
+            <a href="http://startspacepodcast.blogspot.com/" target="_blank">
+                <img id="stsp" src="/images/startSpaceLogo.png" alt="Start Space Podcast Logo" title="Click To Go To The Start Space Podcast Home Page"/></a>
+            <p id="stspp">
+                Are you new on the gaming scene? Are you a grizzled vet who's interested in what those newbies think about the games you love? 
+				Want some insight on getting friends into the hobby? Then the Start Space Podcast is the show for you! Join brothers and co-hosts 
+				Eddie and Tony each week as they review games and discuss varying aspects of the tabletop scene from the perspective of the new gamer.
+            </p>
+            <p>
+                <a href="http://startspacepodcast.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+
+            <a href="http://todayinboardgames.com/" target="_blank">
+                <img id="tibg" src="/images/TodayInBoardGames.png" alt="Today in Board Games Logo" title="Click To Go To Today in Board Games Home Page"/></a>
+            <p id="tibgp">
+                The Today in Board Games Week in Review covers the latest in gaming. In each episode host Roger interviews one or more influential 
+				gamers, game publishers, designers, app developers, industry leaders, bloggers, podcasters, and/or videographers. We discuss the latest 
+				games (both new and upcoming), go in depth about hot Kickstarter projects, and talk trends, events, and predictions.
+            </p>
+            <p>
+                <a href="http://feeds.feedburner.com/TodayInBoardGamesReview"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+
+            <a href="http://boardsandswords.com/" target="_blank">
+                <img id="bas" src="/images/boardsSwordsLogo.png" alt="Boards & Swords Logo" title="Click To Go the Boards and Swords Home Page"/></a>
+            <p id="basp">
+                Boards & Swords - A podcast about board games, card games, and other tabletop games. Every other week, Chris Renshaw sits down and talks 
+				about his experiences discovering new and cool games. Each episode, expect to hear great tales ranging from Magic: The Gathering to 
+				Dungeons & Dragons. Also, each episode Chris breaks down one board game so that everyone understands the basics of the game.
+            </p>
+            <p>
+                <a href="http://feeds.feedburner.com/boardsandswords"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
 		
