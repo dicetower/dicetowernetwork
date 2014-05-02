@@ -142,6 +142,7 @@
                 <a href="http://njagp.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		
 		<!--
         <div class="divheight">
 
@@ -153,7 +154,7 @@
                 <a href="http://www.shutupshow.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
-		-->
+		
         <div class="divheight">
 
             <a href="http://www.gameopolis.org" target="_blank">
@@ -165,6 +166,7 @@
                 <a href="http://gameopolis.libsyn.com/rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		-->
 		
 		<div class="divheight">
 
@@ -480,6 +482,18 @@
 				to on ITunes.</p>
             <p>
                 <a href="http://feeds.soundcloud.com/users/soundcloud:users:52492923/sounds.rss"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
+		<div class="divheight">
+			<a href="http://20minutesoffiller.wordpress.com/" target="_blank">
+				<img id="twenty" src="/images/20Minlogored.png" alt="The 20 Minutes of Filler Logo" title="The 20 Minutes of Filler Podcast"/></a>
+            <p class="p5paddingtop" id="twentyp">
+                The 20 Minutes of Filler Podcast covers tabletop gaming in small proportion. Hosts Jason Kotarski and Andy Lenox dig into those great little games known 
+				as "fillers" in 20 minute bursts. Featuring game recommendations and designer interviews, Jason and Andy are set to raise the profile of quick, easy to 
+				teach, portable games that fill in the gaps between sessions of Agricola and Twilight Imperium.</p>
+            <p>
+                <a href="http://www.buzzsprout.com/20526.rss"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
 		
