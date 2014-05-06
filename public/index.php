@@ -497,6 +497,19 @@
             </p>
         </div>
 		
+		<div class="divheight">
+			<a href="http://boardgamersanonymous.com/	" target="_blank">
+				<img id="bganon" src="/images/bganon.png" alt="The Board Gamers Anonymous Logo" title="The Board Gamers Anonymous Podcast"/></a>
+            <p class="p5paddingtop" id="bganonp">
+                Board Gamers Anonymous is an audio podcast about the tabletop hobby, covering card games, board games, and miniature games and the insane fun we have at 
+				the table together. Every two weeks BGA's hosts cover which games are triggering their acquisition disorders, what's been hitting the table, and whether the 
+				biggest new release is a buy, a play, or a dodge. The BGA crew strives to talk not only about what makes a game good, but the experiences that these games can 
+				give us and why they keep us coming back. As always, we have a seat saved just for you, so join us!</p>
+            <p>
+                <a href="http://boardgamersanonymous.com/feed/"  target="_blank"> <span>RSS Feed</span> </a>
+            </p>
+        </div>
+		
     </div>
 </div>
 </body>
