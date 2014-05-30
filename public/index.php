@@ -31,14 +31,14 @@
         promotes excellence and fun in board gaming.
     </h3>
 	
-	<!--            ADVERTISING BANNER  
+	          
 	
-	<a  href="http://www.kickstarter.com/projects/level99games/argent-the-consortium-influence-intrigue-power" target="_blank">
-        <img id="adbanner" src="/images/argent_ad_2.gif" alt="Check Out Argent - New From Level99 Games!!" title="Click To Go To The Argent Kickstarter Page" />
+	<a  href="https://www.kickstarter.com/projects/1194220798/hollywood-make-your-own-blockbuster" target="_blank">
+        <img id="adbanner" src="/images/Hobbyworld728x90_1.gif" alt="Check Out Hollywood - New From Hobby World Games!!" title="Click To Go To The Hollywood Kickstarter Page" />
 	</a>
     <br/>
 	
-	-->
+	
 
     <div>
         <div class="divheight">
