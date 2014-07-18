@@ -103,7 +103,7 @@
         </div>
         <div class="divheight">
 
-            <a href="http://onboardgames.net/" target="_blank">
+            <a href="http://onboardgames.libsyn.com/" target="_blank">
                 <img id="obg" src="/images/onboard.png" alt="On Board Games Logo" title="Click To Go To The On Board Games Home Page"/></a>
             <p>
                 On Board Games is a show about board and card games.  The guys of On Board Games discuss games from the viewpoints of
@@ -186,7 +186,7 @@
 		
 		<div class="divheight">
 
-            <a href="http://tableflipsyou.blogspot.com/" target="_blank">
+            <a href="http://tableflipsyou.blogspot.com/p/podcast.html" target="_blank">
                 <img id="flipthetable" src="/images/flipthetable.png" alt="Flip The Table Logo" title="Click To Go To The Flip The Table Home Page"/></a>
             <p class="p5paddingtop">
                 Most board game shows focus on the latest and greatest, or time-tested classics...the crew from Flip the Table 
@@ -238,7 +238,7 @@
         </div>
 		-->
 		<div class="divheight">
-			<a href="http://www.2d6.org/category/podcast/" target="_blank">
+			<a href="http://feeds.feedburner.com/TheLongViewPodcast" target="_blank">
 				<img id="longview" src="/images/LongViewLogo2.jpg" alt="The Long View Logo" title="The Long View Podcast"/></a>
             <p class="p5paddingtop" id="longviewp">
                 The Long View is a podcast designed to take a closer, more critical look at the games we play. Each episode will focus on a 
@@ -338,7 +338,7 @@
         </div>
 		
 		<div class="divheight">
-			<a href="http://gamerchris.com/categories/263/exploring-games-podcast.aspx" target="_blank">
+			<a href="http://gamerchris.net/category/exploring-games-podcast/" target="_blank">
 				<img id="explorgames" src="/images/exploringgames.png" alt="The Exploring Games Logo" title="The Exploring Games Podcast"/></a>
             <p class="p5paddingtop" id="explorgamesp">
                 Exploring Games is a podcast all about the modern boardgame hobby hosted by long-time blogger Chris Norwood (aka GamerChris). Each episode 
@@ -445,7 +445,7 @@
 		
 		<div class="divheight">
 
-            <a href="http://todayinboardgames.com/" target="_blank">
+            <a href="http://todayinboardgames.com/category/week-in-review/" target="_blank">
                 <img id="tibg" src="/images/TodayInBoardGames.png" alt="Today in Board Games Logo" title="Click To Go To Today in Board Games Home Page"/></a>
             <p id="tibgp">
                 The Today in Board Games Week in Review covers the latest in gaming. In each episode host Roger interviews one or more influential 
@@ -498,7 +498,7 @@
         </div>
 		
 		<div class="divheight">
-			<a href="http://boardgamersanonymous.com/	" target="_blank">
+			<a href="http://boardgamersanonymous.com/category/podcast-episodes/	" target="_blank">
 				<img id="bganon" src="/images/bganon.png" alt="The Board Gamers Anonymous Logo" title="The Board Gamers Anonymous Podcast"/></a>
             <p class="p5paddingtop" id="bganonp">
                 Board Gamers Anonymous is an audio podcast about the tabletop hobby, covering card games, board games, and miniature games and the insane fun we have at 
