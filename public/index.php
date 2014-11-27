@@ -85,7 +85,10 @@
             </p>
         </div>
 		-->
-        <div class="divheight">
+
+		<!--
+		
+	   <div class="divheight">
 
             <a href="http://littlemetaldog.com/episode-list/" target="_blank">
                 <img id="lmds" src="/images/littlemetal.png" alt="Little Metal Dog Logo" title="Click To Go To The Little Metal Dog Home Page"/></a>
@@ -101,6 +104,9 @@
                 <a href="http://littlemetaldog.podbean.com/feed/"  target="_blank"> <span>RSS Feed</span> </a>
             </p>
         </div>
+		
+		-->
+		
         <div class="divheight">
 
             <a href="http://onboardgames.libsyn.com/" target="_blank">
