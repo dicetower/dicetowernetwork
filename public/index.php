@@ -33,9 +33,9 @@
 	
 	          
 	
-<!--	<a  href="https://www.kickstarter.com/projects/1194220798/hollywood-make-your-own-blockbuster" target="_blank">
-        <img id="adbanner" src="/images/Hobbyworld728x90_1.gif" alt="Check Out Hollywood - New From Hobby World Games!!" title="Click To Go To The Hollywood Kickstarter Page" />
-	</a> -->
+	<a  href="https://www.kickstarter.com/projects/funforge/zna" target="_blank">
+        <img id="adbanner" src="/images/ZNA_LIVE_728x90.png" alt="Check Out Hollywood - New From Hobby World Games!!" title="Click To Go To The Hollywood Kickstarter Page" />
+	</a>
     <br/>
 	
 	
