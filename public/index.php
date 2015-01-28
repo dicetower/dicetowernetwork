@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -206,9 +206,9 @@
             </p>
         </div>
 		
-		<div class="divheight">
+	<!--	<div class="divheight">
 
-            <a href="http://www.cbjpodcast.com/episodes/" target="_blank">
+             <a href="http://www.cbjpodcast.com/episodes/" target="_blank">
                 <img id="cardboardjungle" src="/images/cardboardjunglelogo.png" alt="Cardboard Jungle Logo" title="Click To Go To The Cardboard Jungle Home Page"/></a>
             <p id="cardboardjunglep" class="p5paddingtop">
                 The Cardboard Jungle is a podcast all about tabletop gaming hosted by
@@ -219,7 +219,7 @@
 				publishers, retailers, conventions and other podcasters and bloggers.
 				We love gaming because of all of you and we want give you your proper
 				credit.</p>
-        </div>
+        </div> -->
 		
 		<div class="divheight">
             <a href="http://www.thed6generation.com/" target="_blank">
