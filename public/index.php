@@ -33,9 +33,9 @@
 	
 	          
 	
-<!--	<a  href="https://www.kickstarter.com/projects/funforge/zna" target="_blank">
-        <img id="adbanner" src="/images/ZNA_LIVE_728x90.png" alt="Check Out Hollywood - New From Hobby World Games!!" title="Click To Go To The Hollywood Kickstarter Page" />
-	</a> -->
+	<a  href="https://www.kickstarter.com/projects/2031135231/shadowstar-corsairs" target="_blank">
+        <img id="adbanner" src="/images/corsairs_728.jpg" alt="Check Out Hollywood - New From Hobby World Games!!" title="Click To Go To The Hollywood Kickstarter Page" />
+    </a>
     <br/>
 	
 	
